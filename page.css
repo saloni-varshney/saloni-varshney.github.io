@@ -16,7 +16,7 @@ body{
 }
 .main-heading{
     background-image:url("sample.jpg");
-    color:white;
+    color:black;
     border: 5px black solid;
     border-width: 3px;
     padding: 5px;
@@ -34,7 +34,7 @@ body{
     width: 25%;
     border: 10px;
     padding: 20px;
-    margin-left: 100px;
+    margin-left: 10px;
     
 }
 .block-1{
